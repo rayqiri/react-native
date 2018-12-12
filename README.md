@@ -13,5 +13,5 @@ Belajar react native
 2. run `npm install -g expo-cli`
 3. run `npm start`
 
-Backend Laravel Reast Api
+Backend Laravel Rest Api
 https://github.com/rayqiri/laravel-rest-api
